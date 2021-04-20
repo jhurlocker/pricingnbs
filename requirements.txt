@@ -1,6 +1,6 @@
 ipywidgets==7.6.2
 matplotlib==3.0.0
-pandas==0.23.1
+pandas==1.0.4
 profilehooks==1.11.2 
 scikit-learn==0.22 
 torchvision==0.8.2
